@@ -1,0 +1,139 @@
+crontab 0 1 * * * 
+
+30 0 2 7 0 night 12.30 july 2 sunday 
+30 1 * 7 1 night 1.30 any day july monday
+30 2 * * 2 night 2.30 any day any month tuesday
+30 3 * * * any day any month any day of the week
+30 4 4 * 3 early morning 4.30 any month 4rh date every wednesday
+30 5 5 6 * early morning 5.30 june 5th any week name of the day
+ https://www.linkedin.com/jobs/application-settings/
+ 
+ --------------------------------------------------------------------
+	airtel 04042101458
+198
+040100636748_ap	
+
+<gmail username>
+<input type="email" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="username" spellcheck="false" tabindex="0" aria-label="Email or phone" name="identifier" value="" autocapitalize="none" id="identifierId" dir="ltr" data-initial-dir="ltr" data-initial-value="" badinput="false">
+
+$x("//input[@id='identifierId']")
+
+concotinate
+$x("//input[@name='identifier' and @id='identifierId']")
+
+<way2automation.
+http://way2automation.com/way2auto_jquery/index.php
+<submit button>
+
+<input type="submit" class="button" value="Submit">
+$x("//input[@type='submit']") - 2 elements found
+<input type="submit" class="button" value="Submit">
+<input type="submit" class="button" value="Submit">
+$x("(//input[@type='submit'])[2]")
+
+<amazon cart subtotal>
+<span class="a-color-price hlb-price a-inline-block a-text-bold">₹&nbsp;1,256.00</span>
+
+$x("(//span[@class='a-color-price hlb-price a-inline-block a-text-bold'])[1]")
+
+<web driver manager>
+Using WebDriverManager, we can automatically download the driver’s binary files (.exe files) for Web Automation. This tutorial explains about WebDriverManager’s significance and How to make use of it?
+
+<a class="a-size-base a-link-normal a-text-bold" href="/Unforgettable-Night-Shejal-Aryan-Singh/dp/B08C94RLLH/ref=sr_1_1?keywords=an+unforgettable+night&amp;qid=1595846993&amp;sr=8-1">
+    
+        
+        
+            Paperback
+        
+    
+</a>
+
+
+ $x("//div[@class='a-section a-spacing-none a-spacing-top-mini' and div[@class='a-row a-spacing-mini' and @class='a-row a-size-base a-color-base']")
+
+$x("(//a[starts-with(@href,'/Unforgettable')])[5]")
+
+$x("//span[@class='a-size-medium a-color-base a-text-normal' and contains = 'Samsung Galaxy M31 (Ocean Blue, 6GB RAM, 64GB Storage']"))
+//*[@id="search"]/div[1]/div/div[1]/div/span[3]/div[2]/div[5]/div/span/div/div/div[2]/div[2]/div/div[1]/div/div/div[1]/h2/a/span
+
+$x("//@span[div[1]/div/div/div[1]/h2/a/span]")
+$x("//span[@class = 'Samsung Galaxy M31 (Ocean Blue, 6GB RAM, 64GB Storage)']")
+
+$x("(//*["div/span/div/div/div[2]/div[2]/div/div[1]/div/div/div[1]/h2/a)[5]]")
+
+
+
+$x("//span[normalize-space(.)='Samsung Galaxy M31 (Ocean Blue, 6GB RAM, 64GB Storage)']/parent::span/div[@class='sg-col-inner']"))
+$x("//span[text()='Samsung Galaxy M31 (Ocean Blue, 6GB RAM, 64GB Storage)']")
+
+<span class="a-size-small a-color-base s-ref-text-link s-ref-link-cursor">Samsung</span>
+$x("//input[@name ='s-ref-checkbox-Samsung']")
+
+
+<span class="a-size-small a-color-base s-ref-text-link s-ref-link-cursor">Samsung</span>
+
+$x("//input[@name='s-ref-checkbox-Samsung']/span[text()= 'Samsung']")
+
+
+
+<span class="a-size-small a-color-base s-ref-text-link s-ref-link-cursor">Samsung</span>
+
+<span class="a-size-small a-color-base s-ref-text-link s-ref-link-cursor">Samsung</span>
+
+<span class="a-size-small a-color-base s-ref-text-link s-ref-link-cursor">Samsung</span>
+
+$x("//div[@data-a-input-name ='s-ref-checkbox-Samsung']")
+
+<input id="add-to-cart-button" name="submit.add-to-cart" title="Add to Shopping Cart" data-hover="Select <b>__dims__</b> from the left<br> to add to Shopping Cart" class="a-button-input attach-dss-atc" type="button" value="Add to Cart" aria-labelledby="submit.add-to-cart-announce">
+
+$x("//input[@id= 'add-to-cart-button']")
+
+
+$x("//span[text()='Hello, Sign in']")
+
+
+
+
+Job Description:
+•         Fill gaps in automation of test
+•         Develop automated tests not only for your features but also to support other QA engineers
+•         Design and implement test cases in a rapid prototyping environment with minimal supervision
+•         Perform and orchestrate multiple activities simultaneously
+•         Participate actively in all requirements, design activities
+•         Understand technical test challenges and design feasible solutions to address them
+•         Work closely with Development lead, Product Managers (PM)
+•         Communicate effectively with all stakeholders across the organization
+•         Organize own tasks and takes responsibility for progress and completion
+•         Interacts with senior, internal and external personnel
+•         Ability to communicate or present to the whole product team and occasionally across products
+•         Interacts with and influences other groups on same product and cross product groups.
+•         Have a positive attitude towards the challenges and possess the feel to be a good fit with Informatica culture.
+•         Demonstrates ability to multi-task and re-prioritize responsibilities based on changing requirements (such as urgent customer problems).
+Your Qualifications
+•         BS/MS in Computer Science, Computer Engineering or similar technical degree
+•         4 or more years of Enterprise Software Testing experience with a strong technical background
+•         Expert in Developing Rest API and UI automation Frameworks
+•         Expertise in Cucumber with BDD
+•         Strong hands on Experience in Selenium and Expert in Developing UI Frameworks using the Selenium/Java
+•         Strong RDBMS fundamentals and hands-on database experience on any 2 systems (Like MySQL, Oracle)
+•         Good working experience and expertise in Unix/Linux
+•         Nice to have Experience with Jenkins or other continuous integration software.
+•         Experience with JIRA, Confluence and Zephyr
+•         Experience with technologies like Tomcat, Ant/Maven/gradle.
+•         The candidate should have prior experience dealing with full product development lifecycles and multiple releases, preferably of large enterprise software products
+•         Excellent written & verbal communication and presentation skills.
+•         Strong team player
+•         Energetic and motivated self-starter with an ability to think creatively
+
+
+
+
+
+
+
+
+
+
+
+
+

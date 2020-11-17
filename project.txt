@@ -1,0 +1,13 @@
+an unforgettable night
+//input[@id='twotabsearchtextbox'] - search text field  
+
+//input[@value='Go'] = search button
+
+//div/span[contains(text(),'Shejal Aryan Singh')] = author name verification
+
+//div[2]/div/a/span[1]/span[2]/span[2]- get price
+
+[id='add-to-cart-button'] = add to cart button
+
+
+$x("//span[@class='a-color-price hlb-price a-inline-block a-text-bold']/span[1]")
