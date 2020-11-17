@@ -11,3 +11,7 @@ an unforgettable night
 
 
 $x("//span[@class='a-color-price hlb-price a-inline-block a-text-bold']/span[1]")
+
+111111111111
+33333333333333
+5555555555555555555
